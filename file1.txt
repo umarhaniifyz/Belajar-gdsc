@@ -1,2 +1,6 @@
 ini file1 dari branch branch/1
+<<<<<<< HEAD
 ini file1 dari branch branch/a
+=======
+ini file1 dari branch branch/b
+>>>>>>> branch/b
